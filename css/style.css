@@ -1,0 +1,21 @@
+body {
+  background-color: #E21; }
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #F70; }
+
+.container span {
+  display: block;
+  max-width: 1000px;
+  margin-top: 30px;
+  margin: 0 auto;
+  color: #fff;
+  margin-top: 30px; }
+
+.container img {
+  margin-top: 30px; }
+
+/*# sourceMappingURL=style.css.map */
